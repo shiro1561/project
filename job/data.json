@@ -1,0 +1,1 @@
+data = '[{"type" : "text", "class" : "inputClassName"},{"type" : "number", "class" : "inputClassNamber"},{"type" : "button", "class" : "buttonClass"},{"type" : "checkbox", "class" : "checkboxClass"}]';
