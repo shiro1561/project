@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: #d4d4d4;
+}
+
+.wapper{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    background-color: #d4d4d4;
+    width: 300px;
+    min-height: 150px;
+}
+
+input {
+  margin: 10px;
+}
+
+p {
+  margin-left: 10px;
+}
+
+.buttonClass {
+  display: block;
+  margin-left: 60px;
+}
